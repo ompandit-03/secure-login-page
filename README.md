@@ -137,7 +137,7 @@ It also provides practical experience with Python modules, functions, dictionari
 
 ---
 
-**Author:** Your Name
+**Author:** ompandit-03
 
 **Project:** Secure Login System
 
